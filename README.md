@@ -13,5 +13,4 @@ This project deals with the Applications of Fourier Transforms in different diff
 
 ![circular aperture](https://raw.githubusercontent.com/o-brishti/Fraunhofer-Diffraction-and-Fourier-Optics/main/images/pattern4.png)
 
-![star shaped aperture](https://raw.githubusercontent.com/o-brishti/Fraunhofer-Diffraction-and-Fourier-Optics/main/images/pattern5.png)
 
