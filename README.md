@@ -1,4 +1,4 @@
-# Applying Fourier Transforms to Diffraction Patterns
+# Fraunhofer Diffraction with Fourier Transforms
   
 This project deals with the Applications of Fourier Transforms in different diffraction patterns. By simulating different aperture shapes (single slit, double slit, multi-slit, circular and other arbitrary shapes), we visualize how light interacts with obstacles, producing characteristic diffraction patterns.  
 
